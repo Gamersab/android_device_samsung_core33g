@@ -136,7 +136,7 @@ TARGET_NEEDS_PLATFORM_TEXT_RELOCATIONS := true
 
 # Dex-preoptimization
 WITH_DEXPREOPT := false
-WITH_DEXPREOPT_PIC := true
+WITH_DEXPREOPT_PIC := false
 
 # Build system
 WITHOUT_CHECK_API := true
